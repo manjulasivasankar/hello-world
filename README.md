@@ -12,3 +12,34 @@ Version control software let's you have different versions of the document and y
 Colloboration means working with different people on the same file like Google docs.
 
 Distributed means , it doesn't have single point of failure, if any machine is distributed system goes down , you can recreate the whole stable system with no/least lose of data. Unlike in client server model (svn) , server is a single point of failure. 
+
+
+a social network for developers to share and collaborate with their codes. it also has feeds and followers as other social networks has...
+
+FEATURES OF GIT:
+
+1. distributed:
+   - allows distributed development of code 
+   - every developer has a local copy of entire development history and changes are copied from one repository to another. 
+ 
+2. compatible 
+    -compatible with existing systems and protocols
+    - SVN & SVK repositories can be directly accessed using Git-SVN
+3. non-linear(uses tree data structure and DAG to store the details of the non liner development of softwares)
+    - supports non linear development of software
+    -includes various techniques to navigate and visualize the non liner development history
+4. branching (main feature which stand apart git with other vcs)
+    -it takes only few seconds to create and merge branches
+    -master branch always contains production quality code
+    
+5. lightweight
+
+   -uses lossless compression techniques to compress data on clients side
+6. speed
+
+
+7. open source
+8. reliable
+9. secure
+10. economic 
+6. 
